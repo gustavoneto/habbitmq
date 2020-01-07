@@ -1,4 +1,6 @@
 {
+    "name": "habbitmq",
+    "description": "Estudo sobre HabbitMQ em PHP",
     "require": {
         "php-amqplib/php-amqplib": "^2.11"
     }
